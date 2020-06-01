@@ -1,0 +1,6 @@
+framework module Pods_TheBestAppTestProject {
+  umbrella header "Pods-TheBestAppTestProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
